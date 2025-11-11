@@ -55,6 +55,3 @@ Files
 - `src/` — backend helpers (PDO, auth, event actions)
 - `assets/` — CSS and JS
 - `sql/schema.sql` — DB schema and sample data
-
-Notes
-- This is intentionally minimal. Remove `public/setup.php` after use.
